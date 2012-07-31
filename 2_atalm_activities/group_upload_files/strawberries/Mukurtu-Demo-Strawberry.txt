@@ -1,0 +1,24 @@
+http://dev.mukurtu-004.gotpantheon.com
+username: Strawberry
+password: demo
+
+
+Title: Strawberry content
+
+Keywords: strawberry, fruit
+
+Category: Demo content
+
+Description: The garden strawberry, Fragaria × ananassa, is a hybrid species that is cultivated worldwide for its fruit, the (common) strawberry. The fruit (which is not a botanical berry, but an aggregate accessory fruit) is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in prepared foods such as preserves, fruit juice, pies, ice creams, and milkshakes. Artificial strawberry aroma is also widely used in many industrialized food products.
+
+Community: Strawberries
+
+Cultural Protocols: Sample Cultural Protocol
+
+Sharing Protocols: Use group default
+
+Creator: Your name
+
+Language: English
+
+Source: http://en.wikipedia.org/wiki/Strawberry

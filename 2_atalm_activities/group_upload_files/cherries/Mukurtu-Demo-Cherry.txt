@@ -1,0 +1,25 @@
+http://dev.mukurtu-004.gotpantheon.com
+username: Cherry
+password: demo
+
+
+Title: Cherry content
+
+Keywords: cherry, fruit
+
+Category: Demo content
+
+Description: The cherry is the fruit of many plants of the genus Prunus, and is a fleshy stone fruit. The cherry fruits of commerce are usually obtained from a limited number of species, including especially cultivars of the wild cherry, Prunus avium.
+The name 'cherry', often as the compound term 'cherry tree', may also be applied to many other members of the genus Prunus, or to all members of the genus as a collective term. The fruits of many of these are not cherries, and have other common names, including plum, apricot, peach, and others. The name 'cherry' is also frequently used in reference to cherry blossom.
+
+Community: Cherries
+
+Cultural Protocols: Sample Cultural Protocol
+
+Sharing Protocols: Use group default
+
+Creator: Your name
+
+Language: English
+
+Source: http://en.wikipedia.org/wiki/Cherry

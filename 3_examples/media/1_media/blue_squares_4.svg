@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="1000px" height="1000px" viewBox="0 0 1000 1000"
+	 overflow="visible" enable-background="new 0 0 1000 1000" xml:space="preserve">
+<defs>
+</defs>
+<rect display="none" fill="#B05454" width="1000" height="1000"/>
+<rect display="none" fill="#7BC472" width="1000" height="1000"/>
+<rect fill="#818DC6" width="1000" height="1000"/>
+<polygon display="none" fill="#352A2A" points="186.968,771.094 500,228.906 813.032,771.094 "/>
+<rect x="206.25" y="206.25" display="none" fill="#352A2A" width="587.5" height="587.5"/>
+<circle display="none" fill="#352A2A" cx="500" cy="500" r="293.75"/>
+<circle display="none" fill="#352A2A" cx="500" cy="692.188" r="128.125"/>
+<circle display="none" fill="#352A2A" cx="500" cy="309.375" r="128.125"/>
+<rect x="384.375" y="574.25" display="none" fill="#352A2A" width="231.25" height="231.25"/>
+<rect x="384.375" y="194.25" display="none" fill="#352A2A" width="231.25" height="231.25"/>
+<polygon display="none" fill="#352A2A" points="368.786,802.5 502.876,570.25 636.966,802.5 "/>
+<polygon display="none" fill="#352A2A" points="368.786,414.5 502.876,182.25 636.966,414.5 "/>
+<polygon display="none" fill="#352A2A" points="114.786,608.5 248.875,376.25 382.966,608.5 "/>
+<polygon display="none" fill="#352A2A" points="622.785,608.499 756.875,376.249 890.965,608.499 "/>
+<polygon display="none" fill="#352A2A" points="368.786,852.5 502.876,620.25 636.966,852.5 "/>
+<polygon display="none" fill="#352A2A" points="368.786,354.5 502.876,122.25 636.966,354.5 "/>
+<rect x="134.375" y="384.25" display="none" fill="#352A2A" width="231.25" height="231.25"/>
+<rect x="634.375" y="384.25" display="none" fill="#352A2A" width="231.25" height="231.25"/>
+<rect x="384.375" y="634.25" display="none" fill="#352A2A" width="231.25" height="231.25"/>
+<rect x="384.375" y="134.25" display="none" fill="#352A2A" width="231.25" height="231.25"/>
+<circle fill="#352A2A" cx="258.594" cy="500.781" r="128.125"/>
+<circle fill="#352A2A" cx="741.406" cy="500.781" r="128.125"/>
+<circle fill="#352A2A" cx="500" cy="742.188" r="128.125"/>
+<circle fill="#352A2A" cx="500" cy="259.375" r="128.125"/>
+</svg>

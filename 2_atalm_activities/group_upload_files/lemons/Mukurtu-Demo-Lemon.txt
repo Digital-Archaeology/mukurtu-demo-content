@@ -1,0 +1,24 @@
+http://dev.mukurtu-004.gotpantheon.com
+username: Lemon
+password: demo
+
+
+Title: Lemon content
+
+Keywords: lemon, fruit
+
+Category: Demo content
+
+Description: The lemon (Citrus × limon) is a small evergreen tree native to Asia, and the tree's ellipsoidal yellow fruit. The fruit's juice, pulp and peel, especially the zest, are used as foods. The juice of the lemon is about 5% to 6% citric acid, which gives lemons a sour taste. The distinctive sour taste of lemon juice makes it a key ingredient in drinks and foods such as lemonade.
+
+Community: Lemons
+
+Cultural Protocols: Sample Cultural Protocol
+
+Sharing Protocols: Use group default
+
+Creator: Your name
+
+Language: English
+
+Source: http://en.wikipedia.org/wiki/Lemon

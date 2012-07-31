@@ -1,0 +1,204 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf320
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\b\fs24 \cf0 Mukurtu Demo Content
+\b0 \
+\
+There is one main sets of Demo Content for testing out various features of Mukurtu, and then three extra "examples"\
+\
+If you find any errors in this document, please give your feedback to:\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+{\field{\*\fldinst{HYPERLINK "http://mukurtu.uservoice.com/forums/137159-improvements"}}{\fldrslt \cf0 http://mukurtu.uservoice.com/forums/137159-improvements}}\
+\
+Field Documentation for CSV's in _documents/fields\
+Has information about each Digital Heritage item.\
+\
+\
+=================================================================\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 Mukurtu Demo: 1_mukurtu_demo
+\b0 \
+This is a set of media (images), communities, cultural protocols, users that belong to groups, categories and digital heritage metadata.\
+\
+To install this demo content\
+1. Install Mukurtu \
+2. Visit the administrator's dashboard (admin/dashboard, or by clicking 'dashboard' in the admin menu)\
+3. Scroll towards the bottom of the page to the area that says Mukurtu Demo Content.\
+\
+Follow each installation in sequence. The order does matter, as the items towards the end depend on having the first items available.\
+\
+
+\b First install the Media 
+\b0 - click the link and then click "Add Files" and select the media items from the media folder (which are of many images.)\
+\
+
+\b Then you will do a series of CSV imports.
+\b0 \
+\
+Visit each link, and then add the file and click import.\
+\
+For example, to do a batch import of Cultural Protocols:\
+1. Visit /import/import_cultural_protocols\
+2. Then, under "File" click 'Choose File' and select the CSV file that corresponds to data about Cultural Protocols. \
+3. Then Click 'Import' and Mukurtu will load up each of the items in your CSV file as new records.\
+\
+\
+
+\b Notes
+\b0 \
+* These CSV files have a structure which you can use to import other content.\
+\
+* It is possible to import several CSV files from difference sources.\
+\
+* Deleting items through the Import interface will delete ALL of the records you have ever imported. To delete items selectively, you should use the content administration interface (/admin/content)\
+\
+* To export content, Mukurtu provides exporters.\
+\
+-- Cultural Protocols /cultural-protocol-export  (JSON preview)  /cultural-protocol-export-csv (CSV)\
+-- Communities /community-export  /community-export-csv\
+-- Users /user-export  /user-export-csv\
+-- Categories  /category/export  /category/export/csv\
+\
+===========================================================\
+
+\b Additional Examples\
+\
+digital_heritage_set\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b0 \cf0 A set of digital heritage images. Imports media from the web.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 media
+\b0 \
+A set of media files of different formats. Imports media from the web.
+\b \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b0 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 rich_content_media
+\b0 \
+A set of complex, related digital heritage\
+\
+============== Additional Tips ====================\
+\
+
+\b Export
+\b0 \
+To export digital heritage metadata & media, use the /browse interface to selectively export content as CSV files and to download a ZIP file of media.\
+\
+
+\b Media Import\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b0 \cf0 * You can import media of different supported formats into Mukurtu.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 Currently supported formats are these:
+\b0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\i \cf0 Images
+\i0 \
+jpg, png, gif (local, hosted (must point to the direct url of the image, have thumbnails)\
+\
+Flickr (via share url, have thumbnails)\
+\
+\
+
+\i Documents
+\i0 \
+pdf (no thumbnails)\
+doc (no thumbnails)\
+ppt (no thumbnails)\
+\
+
+\i Video\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\i0 \cf0 mov (local, hosted, no thumbnails)\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\i \cf0 m4v 
+\i0 (local, no thumbnails) \
+
+\i \
+youtube\
+vimeo\
+\
+Audio
+\i0 \
+mp3 (local, hosted, no thumbnails)\
+SoundCloud (embed url, has thumbnail)\
+\
+-- In cases where there are no thumbnails, you can manually choose a thumbnail image and upload it to mukurtu.\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 Future formats are these:
+\b0 \
+m4v (hosted)\
+wav (hosted)\
+wav (uploaded through media interface. currently only can add by uploading through digital heritage interface)
+\b \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b0 \cf0 \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 Unknown  \
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\i\b0 \cf0 (These may be supported to different degrees, but we have not tested throughly yet.)
+\i0 \
+TIFF\
+swf\
+xls\
+flv\
+pps\
+odt\
+ods\
+odp\
+mp4\
+mpeg\
+avi\
+ogg\
+wmv\
+webm\
+ico\
+\
+Oembedly formats (there are dozens of these)\
+\
+\
+\
+* Mukurtu using the filename that is in the files directory as the key. When testing import, you may need to make sure that you delete files in the files directory, because if you re-upload files Mukurtu/Drupal will assign a new name to the files, which may not match your import document (CSV).\
+\
+\
+\
+\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b \cf0 Roundtrip Import\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\b0 \cf0 It is possible to use Mukurtu to share information, get feedback, export that data, clean it up using external systems such as Google Refine, and then import or reimport.
+\b \
+
+\b0 \
+To reimport Media, you will need to move all of the files into the same directory.\
+\
+Mukurtu accepts GUID's in the importer. If you use these, then if you reimport a CSV file, it will update the content. \
+\
+If content is created in Mukurtu and you export the content, Mukurtu will assign the node id (nid) as the GUID so that you can reimport. If you need to change this, you will need to delete old nodes and reimport content as appropriate.\
+\
+We recommend testing Mukurtu thoroughly before using Mukurtu to host any sensitive content. Mukurtu is new software, and as such there may be bugs. If you notice errors, please contact us through our Feedback interface.\
+}
